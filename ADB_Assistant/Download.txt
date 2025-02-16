@@ -1,1 +1,2 @@
 https://gitee.com/git_3wlh/File/raw/main/ADB/ADB.zip||B0B2A667263F54D9FA7BD61F8AF1D574
+http://github.11121314.xyz/File/ADB/ADB.zip||B0B2A667263F54D9FA7BD61F8AF1D574
