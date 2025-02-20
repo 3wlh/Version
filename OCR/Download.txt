@@ -1,2 +1,2 @@
-https://gitee.com/git_3wlh/File/raw/main/OCR/RapidOCR_DLL.zip||2A51C1FF994AC8EBBB95A19858991C21
-http://github.11121314.xyz/File/OCR/RapidOCR_DLL.zip||2A51C1FF994AC8EBBB95A19858991C21
+https://gitee.com/git_3wlh/File/raw/main/OCR/ocr.tar.gz||23CA96E6D9B7C9D19662B768C82AF323
+http://github.11121314.xyz/File/OCR/ocr.tar.gz||23CA96E6D9B7C9D19662B768C82AF323
